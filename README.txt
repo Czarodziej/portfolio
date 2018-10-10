@@ -124,9 +124,9 @@ Other Stuff
 	- If you plan to keep support for IE8 (what little there is), don't forget to update
 	  css/ie/ie8.css as you change other stuff.
 	  
-	- skelJS (frame this thing is built on): http://skeljs.org
+	- skelJS (frame this thing is built on): https://skeljs.org
 	
-	- Poptrox (powers the lightbox-style gallery): http://github.com/n33/jquery.poptrox
+	- Poptrox (powers the lightbox-style gallery): https://github.com/n33/jquery.poptrox
 
 
 
@@ -134,26 +134,26 @@ Credits
 =======
 
 	Images (Demo Only)
-		Felicia Simion (http://ineedchemicalx.deviantart.com/)
-			"The Swallow Song" (http://ineedchemicalx.deviantart.com/art/The-Swallow-Song-414742090)
-			"Mind is a clear stage" (http://ineedchemicalx.deviantart.com/art/Mind-is-a-clear-stage-375431607)
-			"The Anonymous Red" (http://ineedchemicalx.deviantart.com/art/The-Anonymous-Red-428927280)
-			"The sparkling shell" (http://ineedchemicalx.deviantart.com/art/The-sparkling-shell-423256221)
-			"Carry on" (http://ineedchemicalx.deviantart.com/art/Carry-on-421878967)
+		Felicia Simion (https://ineedchemicalx.deviantart.com/)
+			"The Swallow Song" (https://ineedchemicalx.deviantart.com/art/The-Swallow-Song-414742090)
+			"Mind is a clear stage" (https://ineedchemicalx.deviantart.com/art/Mind-is-a-clear-stage-375431607)
+			"The Anonymous Red" (https://ineedchemicalx.deviantart.com/art/The-Anonymous-Red-428927280)
+			"The sparkling shell" (https://ineedchemicalx.deviantart.com/art/The-sparkling-shell-423256221)
+			"Carry on" (https://ineedchemicalx.deviantart.com/art/Carry-on-421878967)
 
-		Michael Domaradzki (http://mdomaradzki.deviantart.com/)	
-			"Vine Country" (http://mdomaradzki.deviantart.com/art/Vine-Country-381350120)
-			"Airchitecture II" (http://mdomaradzki.deviantart.com/art/Airchitecture-II-385212804)
-			"Bent IX" (http://mdomaradzki.deviantart.com/art/Bent-IX-372298067)
-			"Air Lounge" (http://mdomaradzki.deviantart.com/art/Air-Lounge-385212062)
+		Michael Domaradzki (https://mdomaradzki.deviantart.com/)	
+			"Vine Country" (https://mdomaradzki.deviantart.com/art/Vine-Country-381350120)
+			"Airchitecture II" (https://mdomaradzki.deviantart.com/art/Airchitecture-II-385212804)
+			"Bent IX" (https://mdomaradzki.deviantart.com/art/Bent-IX-372298067)
+			"Air Lounge" (https://mdomaradzki.deviantart.com/art/Air-Lounge-385212062)
 
 	Icons
-		Font Awesome (http://fortawesome.github.com/Font-Awesome/)
+		Font Awesome (https://fortawesome.github.com/Font-Awesome/)
 
 	Other
 		jQuery (jquery.com)
 		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 PIE (http://css3pie.com/)
+		CSS3 PIE (https://css3pie.com/)
 		background-size polyfill (https://github.com/louisremi/background-size-polyfill)
 		jquery.poptrox, other misc plugins (n33.co)
 		skelJS (skeljs.org)
